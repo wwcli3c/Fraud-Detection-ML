@@ -1,6 +1,6 @@
 # Fraud-Detection-ML
 
-Fraud Detection – ML (Simple Version)
+Fraud Detection 
 
 Detect fraudulent credit card transactions using Isolation Forest.
 
